@@ -2,6 +2,8 @@
 
 Welcome to the Blogging Application, a web-based platform for creating and managing blogs. This application allows authors to create and share their blogs, while users can read blogs and leave comments. The application is built with Node.js, Express, and MongoDB for data storage.
 
+Deployed at :: https://retinkblog-21ra.onrender.com/
+
 
 ## Table of Contents
 
