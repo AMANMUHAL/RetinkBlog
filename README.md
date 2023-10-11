@@ -1,7 +1,7 @@
 # RetinkBlog
-# RetinkBlog
 
 Welcome to the Blogging Application, a web-based platform for creating and managing blogs. This application allows authors to create and share their blogs, while users can read blogs and leave comments. The application is built with Node.js, Express, and MongoDB for data storage.
+
 
 ## Table of Contents
 
@@ -10,12 +10,6 @@ Welcome to the Blogging Application, a web-based platform for creating and manag
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Deployment](#deployment)
-- [Optional Features](#optional-features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
@@ -50,7 +44,7 @@ Before you begin, make sure you have the following installed:
    npm start
 6. Access the application in your web browser at http://localhost:3000 (or the configured port).
 
-Usage
+### Usage
 Authors: Register or log in as an author to create and manage your blogs.
 
 Users: Register or log in as a user to read blogs and leave comments.
@@ -58,10 +52,17 @@ Users: Register or log in as a user to read blogs and leave comments.
 Optional Features: Explore co-authoring, liking blogs, and viewing counts.
 
 
+![image](https://github.com/AMANMUHAL/RetinkBlog/assets/101124129/919c0d30-68ca-4389-9e6b-ed688ceb5999)
+![image](https://github.com/AMANMUHAL/RetinkBlog/assets/101124129/93a0b648-2070-483a-b15c-e4f06a508566)
 
-![image](https://github.com/AMANMUHAL/RetinkBlog/assets/101124129/6e3355b6-cc2f-44ba-ac1f-963ab39ef5dc)
-![image](https://github.com/AMANMUHAL/RetinkBlog/assets/101124129/e5475a69-f534-40bc-b35f-5627ef06f50e)
+![image](https://github.com/AMANMUHAL/RetinkBlog/assets/101124129/710275c8-c025-429f-9285-bf953e7379ec)
+
 
 #Admin Dashboard
-![image](https://github.com/AMANMUHAL/RetinkBlog/assets/101124129/a55a5400-7f14-47a1-8313-7248ace2d5b5)
+![image](https://github.com/AMANMUHAL/RetinkBlog/assets/101124129/dc9cf6ad-fedc-427b-bb75-9f4dc89bc808)
+
+
+
+
+
 
